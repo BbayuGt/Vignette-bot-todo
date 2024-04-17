@@ -12,7 +12,7 @@ Fungsi Repository ini adalah untuk request fitur baru dengan membuat sebuah [Iss
 
 <div align="center">
 
-[![Join Our Channel][whatsapp-shield]][whatsapp-url]
+[![Join Our Channel][whatsapp-shield]][whatsapp-link]
 
 </div>
 
