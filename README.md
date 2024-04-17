@@ -4,7 +4,7 @@
 
 Vignette adalah bot WhatsApp closed source yang dapat digunakan untuk bermain game RPG.
 
-Fungsi Repository ini adalah untuk request fitur baru dengan membuat sebuah [Issue]("https://github.com/BbayuGt/Vignette-bot-todo/issues")
+Fungsi Repository ini adalah untuk request fitur baru dengan membuat sebuah [Issue](https://github.com/BbayuGt/Vignette-bot-todo/issues)
 
 <div align="center">
     <img src="./images/vignette.jpg" alt="Foto Vignette" width="200">
@@ -29,7 +29,7 @@ Sebagai bentuk terima kasih, saya akan menulis semua paket/servis yang digunakan
 
 Fitur yang sudah atau akan ditambahkan ke Vignette
 
-[Request Fitur Baru? Klik disini!]("https://github.com/BbayuGt/Vignette-bot-todo/issues")
+[Request Fitur Baru? Klik disini!](https://github.com/BbayuGt/Vignette-bot-todo/issues)
 
 **Fitur Utama - Fitur yang di prioritaskan**
 
