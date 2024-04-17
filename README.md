@@ -12,7 +12,7 @@ Fungsi Repository ini adalah untuk request fitur baru dengan membuat sebuah [Iss
 
 <div align="center">
 
-[![Join Our Channel](https://img.shields.io/badge/Join_Our_Channel-black?logo=whatsapp&link=https://chat.whatsapp.com/EM7gnPombJ87ktPCj8dTeD)](https://chat.whatsapp.com/EM7gnPombJ87ktPCj8dTeD)
+[![Join Our Channel][whatsapp-shield]][whatsapp-url]
 
 </div>
 
@@ -50,3 +50,6 @@ Fitur yang sudah atau akan ditambahkan ke Vignette
 | Fitur | Tersedia? |
 | --- | --- |
 | Sticker Creator | ❌ |
+
+[whatsapp-shield]: https://img.shields.io/badge/Join_Our_Channel-black?logo=whatsapp
+[whatsapp-link]: https://chat.whatsapp.com/EM7gnPombJ87ktPCj8dTeD
