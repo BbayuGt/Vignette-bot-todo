@@ -35,7 +35,7 @@ Fitur yang sudah atau akan ditambahkan ke Vignette
 
 | Fitur | Tersedia? |
 | --- | --- |
-| Hello World (Basic bot) | ❌ |
+| Hello World (Basic bot) | ✅ |
 | Database | ❌ |
 | Account Creation | ❌ | 
 | Daily Login | ❌ |
