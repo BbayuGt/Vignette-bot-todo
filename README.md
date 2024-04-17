@@ -37,6 +37,7 @@ Fitur yang sudah atau akan ditambahkan ke Vignette
 | --- | --- |
 | Hello World (Basic bot) | ❌ |
 | Database | ❌ |
+| Account Creation | ❌ | 
 | Daily Login | ❌ |
 | Random way to get money | ❌ |
 | Fitur Betting | ❌ |
