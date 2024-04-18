@@ -36,7 +36,7 @@ Fitur yang sudah atau akan ditambahkan ke Vignette
 | Fitur | Tersedia? |
 | --- | --- |
 | Hello World (Basic bot) | ✅ |
-| Database | ❌ |
+| Database | ✅ 18/4/24 |
 | Currencies | ❌ |
 | Currencies - Bank | ❌ |
 | Account Creation | ❌ | 
