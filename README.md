@@ -38,8 +38,8 @@ Fitur yang sudah atau akan ditambahkan ke Vignette
 | Hello World (Basic bot) | ✅ |
 | Database | ✅ 18/4/24 |
 | Currencies | ✅ 19/4/24 |
-| Currencies - Bank | ❌ |
-| Account Creation | ❌ | 
+| Currencies - Bank | ✅ 20/4/24 |
+| Account Creation | ✅ 19/4/24 | 
 | Daily Login | ❌ |
 | Random way to get money | ❌ |
 | Fitur Betting | ❌ |
