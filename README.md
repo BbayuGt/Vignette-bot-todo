@@ -37,6 +37,7 @@ Fitur yang sudah atau akan ditambahkan ke Vignette
 | --- | --- |
 | Hello World (Basic bot) | ✅ |
 | Database | ✅ 18/4/24 |
+| Transfer Ep | ✅ 22/4/24 |
 | Currencies | ✅ 19/4/24 |
 | Currencies - Bank | ✅ 20/4/24 |
 | Account Creation | ✅ 19/4/24 | 
