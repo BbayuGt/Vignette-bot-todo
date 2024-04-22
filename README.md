@@ -41,7 +41,7 @@ Fitur yang sudah atau akan ditambahkan ke Vignette
 | Currencies - Bank | ✅ 20/4/24 |
 | Account Creation | ✅ 19/4/24 | 
 | Daily Login | ❌ |
-| Random way to get money | ❌ |
+| Random way to get money | ✅ 22/4/24 |
 | Fitur Betting | ❌ |
 | Inventory | ❌ |
 | Items | ❌ |
