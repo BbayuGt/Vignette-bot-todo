@@ -44,8 +44,8 @@ Fitur yang sudah atau akan ditambahkan ke Vignette
 | Daily Login | ✅ 22/4/24 |
 | Random way to get money | ✅ 22/4/24 |
 | Leveling | ✅ 22/4/24 |
-| Fitur Betting | ✅ 22/4/24 |
-| Inventory | ✅ 22/4/24 |
+| Fitur Betting | ✅ 25/4/24 |
+| Inventory | ✅ 25/4/24 |
 | Items | ❌ |
 | Shop | ❌ |
 
